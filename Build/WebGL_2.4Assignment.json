@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RohitTProject",
+"productVersion": "0.1",
+"dataUrl": "WebGL_2.4Assignment.data.unityweb",
+"wasmCodeUrl": "WebGL_2.4Assignment.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL_2.4Assignment.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
